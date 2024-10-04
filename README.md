@@ -1,4 +1,4 @@
-3# Pos-System ( Internet Technologies )
+# Pos-System ( Internet Technologies )
 <br>
 # Site Map :- <a herf "https://www.gloomaps.com/ka34KXKjqj"></a>
 <br>
