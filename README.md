@@ -1,8 +1,8 @@
 # Pos-System ( Internet Technologies )
 <br>
-[Chama Systems POS Site Map]  :- (https://www.gloomaps.com/ka34KXKjqj)
-[Chama Systems POS Wireframe By Draw-io ]  :- (https://app.diagrams.net/#G1CODaMlf6labsBDIJBzoTeVItNlKIKD5S#%7B%22pageId%22%3A%224t-SUvAaWSUeEGWLyYUF%22%7D)
-[Chama Systems POS Mockup By Figma ]  :- ([https://www.gloomaps.com/ka34KXKjqj](https://www.figma.com/design/EL8EXvp3oVBXHGADRAnPgL/Pos-System?node-id=0-1&node-type=canvas&t=nqg3ulMdDnpwkEvk-0))
+[Chama Systems POS Site Map]  :- (https://www.gloomaps.com/ka34KXKjqj)<br><br>
+[Chama Systems POS Wireframe By Draw-io ]  :- (https://app.diagrams.net/#G1CODaMlf6labsBDIJBzoTeVItNlKIKD5S#%7B%22pageId%22%3A%224t-SUvAaWSUeEGWLyYUF%22%7D)<br><br>
+[Chama Systems POS Mockup By Figma ]  :- ([https://www.gloomaps.com/ka34KXKjqj](https://www.figma.com/design/EL8EXvp3oVBXHGADRAnPgL/Pos-System?node-id=0-1&node-type=canvas&t=nqg3ulMdDnpwkEvk-0))<br>
 <br>
 
 
